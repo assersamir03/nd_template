@@ -57,3 +57,7 @@ ul
 }
 /* End Global Rules */
 /* Start Components */
+.main-heading 
+{
+    text-align: center;
+}
