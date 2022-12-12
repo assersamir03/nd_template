@@ -71,5 +71,5 @@ ul
 }
 .main-heading h2::before 
 {
-    
+    content: "";
 }
