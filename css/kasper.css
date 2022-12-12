@@ -75,4 +75,6 @@ ul
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    height: 2px;
+    background-color: #333;
 }
