@@ -1038,3 +1038,10 @@ header nav .form i
 {
     flex-basis: 25%;
 }
+@media (max-width: 767px) 
+{
+    .contact .content .info {
+    order: -1;
+    text-align: center;
+    }
+}
