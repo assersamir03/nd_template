@@ -932,3 +932,8 @@ header nav .form i
     flex-direction: column;
     }
 }
+.subscribe form
+{
+    display: flex;
+    
+}
