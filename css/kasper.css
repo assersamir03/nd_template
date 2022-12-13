@@ -1093,5 +1093,7 @@ header nav .form i
 }
 .footer::before 
 {
+    content: "";
+    position: absolute;
     
 }
