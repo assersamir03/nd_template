@@ -600,3 +600,8 @@ header nav .form i
     display: flex;
     flex-wrap: wrap;
 }
+.stats .container .box 
+{
+    color: white;
+    
+}
