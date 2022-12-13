@@ -149,3 +149,7 @@ header nav .toggle-menu
     display: none;
     }
 }
+header nav ul 
+{
+    display: flex;
+}
