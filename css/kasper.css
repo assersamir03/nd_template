@@ -914,5 +914,7 @@ header nav .form i
 .subscribe::before 
 {
     content: "";
+    position: absolute;
+    left: 0;
     
 }
