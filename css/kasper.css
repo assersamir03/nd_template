@@ -242,3 +242,8 @@ header nav .form i
 {
     max-width: 500px;
 }
+@media (max-width: 767px) 
+{
+    .landing .text {
+      width: 100%;
+}
