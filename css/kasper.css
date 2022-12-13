@@ -159,3 +159,7 @@ header nav ul
     display: none;
     }
 }
+header nav .toggle-menu:hover + ul 
+{
+    
+}
