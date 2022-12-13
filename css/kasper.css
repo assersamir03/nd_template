@@ -1012,5 +1012,6 @@ header nav .form i
     padding: 20px;
     display: block;
     border: 1px solid #ccc;
-    
+    margin-bottom: 30px;
+    width: 100%;
 }
