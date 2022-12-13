@@ -270,3 +270,8 @@ header nav .form i
     transform: translateY(-50%);
     color: #ddd;
 }
+@media (max-width: 767px) {
+    .landing .change-background {
+    display: none;
+    }
+}
