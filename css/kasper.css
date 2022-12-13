@@ -492,3 +492,9 @@ header nav .form i
 {
     color: var(--main-color);
 }
+.portfolio .more 
+{
+    background-color: var(--main-color);
+    color: white;
+    
+}
