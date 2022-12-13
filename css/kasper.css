@@ -184,3 +184,7 @@ header nav ul li a
     position: relative;
     z-index: 2;
 }
+header nav ul li a.active,
+header nav ul li a:hover {
+
+}
