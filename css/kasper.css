@@ -565,5 +565,5 @@ header nav .form i
     position: relative;
     bottom: -120px;
     margin-top: -120px;
-    
+    max-width: 100%;
 }
