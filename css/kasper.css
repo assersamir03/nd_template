@@ -1007,3 +1007,8 @@ header nav .form i
 {
     flex-basis: 70%;
 }
+.contact .content form .main-input 
+{
+    padding: 20px;
+    
+}
