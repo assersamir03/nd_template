@@ -319,3 +319,7 @@ header nav .form i
     grid-row-gap: 60px;
     }
 }
+.services .srv-box 
+{
+    display: flex;
+}
