@@ -103,3 +103,8 @@ ul
 }
 /* End Components */
 /* Start Header */
+header 
+{
+    position: absolute;
+    left: 0;
+}
