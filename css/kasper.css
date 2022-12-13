@@ -153,3 +153,9 @@ header nav ul
 {
     display: flex;
 }
+@media (max-width: 767px) 
+{
+    header nav ul {
+    display: none;
+    }
+}
