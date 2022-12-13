@@ -927,3 +927,8 @@ header nav .form i
     display: flex;
     align-items: center;
 }
+@media (max-width: 991px) {
+    .subscribe .container {
+    flex-direction: column;
+    }
+}
