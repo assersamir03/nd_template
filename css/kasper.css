@@ -364,5 +364,7 @@ header nav .form i
 }
 .design::before 
 {
-    
+    content: "";
+    position: absolute;
+   
 }
